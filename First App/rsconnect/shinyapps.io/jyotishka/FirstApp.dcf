@@ -1,0 +1,12 @@
+name: FirstApp
+title: FirstApp
+username:
+account: jyotishka
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3456847
+bundleId: 4076051
+url: https://jyotishka.shinyapps.io/FirstApp/
+when: 1610205448.00643
+asMultiple: FALSE
+asStatic: FALSE
